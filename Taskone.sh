@@ -11,21 +11,3 @@ mv myNotepaper myOldNotePaper
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
