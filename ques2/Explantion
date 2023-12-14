@@ -1,0 +1,3 @@
+When a binary file is placed in a directory listed in the PATH environment variable (such as /usr/local/bin), the system can locate and execute it from any working directory. This is because the shell searches for executable files in the directories listed in the PATH variable when a command is entered without specifying its path.
+
+By moving the FinalTarget binary to /usr/local/bin, it becomes part of the system's executable files and can be accessed and executed without specifying its full path. This allows the binary to be executed from any directory by just typing its name in the terminal.
